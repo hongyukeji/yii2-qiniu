@@ -19,7 +19,7 @@ use yii\web\HttpException;
 class Qiniu
 {
 
-    const UP_HOST = 'http://up-z1.qiniu.com';
+    const UP_HOST = 'http://up.qiniu.com';
     const RS_HOST = 'http://rs.qbox.me';
     const RSF_HOST = 'http://rsf.qbox.me';
 
